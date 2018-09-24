@@ -1,5 +1,5 @@
 _repo: Auswahl-aus-den-Dichtungen-Eduard-Morikes_56641
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   commentator:
     agent_name: Löwenberg, J.
@@ -15,6 +15,9 @@ contributor:
     deathdate: 1871
     gutenberg_agent_id: '7885'
     url: http://www.gutenberg.org/2009/agents/7885
+covers:
+- cover_type: archival
+  image_path: 56641-h/images/cover.jpg
 creator:
   author:
     agent_name: Mörike, Eduard
@@ -31,6 +34,8 @@ creator:
     - http://en.wikipedia.org/wiki/Eduard_Mörike
     - http://de.wikipedia.org/wiki/Eduard_Mörike
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56641#Auswahl-aus-den-Dichtungen-Eduard-Morikes
 gutenberg_issued: '2018-02-25'
 gutenberg_type: Text
 identifiers:
