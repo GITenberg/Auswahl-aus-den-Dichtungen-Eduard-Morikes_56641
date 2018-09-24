@@ -1,0 +1,45 @@
+_repo: Auswahl-aus-den-Dichtungen-Eduard-Morikes_56641
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Löwenberg, J.
+    gutenberg_agent_id: '48963'
+    url: http://www.gutenberg.org/2009/agents/48963
+  illustrators:
+  - agent_name: Weiß, Bonaventura
+    gutenberg_agent_id: '48964'
+    url: http://www.gutenberg.org/2009/agents/48964
+  - agent_name: Konewka, Paul
+    alias: Konewka, P. (Paul)
+    birthdate: 1840
+    deathdate: 1871
+    gutenberg_agent_id: '7885'
+    url: http://www.gutenberg.org/2009/agents/7885
+creator:
+  author:
+    agent_name: Mörike, Eduard
+    aliases:
+    - Morike, Eduard Friedrich
+    - Möricke, Eduard
+    - Mörike, Eduard Friedrich
+    - Moricke, Eduard
+    birthdate: 1804
+    deathdate: 1875
+    gutenberg_agent_id: '2493'
+    url: http://www.gutenberg.org/2009/agents/2493
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Eduard_Mörike
+    - http://de.wikipedia.org/wiki/Eduard_Mörike
+description: ''
+gutenberg_issued: '2018-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56641'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Auswahl aus den Dichtungen Eduard Mörikes
+url: http://www.gutenberg.org/ebooks/56641
